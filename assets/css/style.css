@@ -239,6 +239,7 @@ footer {
 }
 
 /* Media queries */
+
 /* For larger to medium screen sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px) {
@@ -268,6 +269,13 @@ footer {
 
     hr {
         display: none;
+    }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
     }
 }
 
