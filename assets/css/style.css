@@ -46,7 +46,7 @@ h1, h2 {
     color: inherit;
 }
 
-a:hover {
+header a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
 
@@ -204,6 +204,8 @@ hr {
     color: #fafafa;
 }
 
+/* footer */
+
 footer {
     height: 150px;
 }
@@ -222,3 +224,17 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
+
