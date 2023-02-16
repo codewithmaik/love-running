@@ -2,11 +2,9 @@
 
 ## About
 
-Love Running is a website for a dublin based running community. It is a walkthrough project to get hands-on experience using HTML and CSS. Furthermore, it was my first experience using Git and Github. 
-
-### Deployed Website
+In this project, I've built a static website called Love Running. It is a website for a Dublin based running community. It's the walkthrough project in the Code Institue Software Development program in order to get hands-on experience using HTML, CSS and Git.
 
 Click this link to open the deployed website in a new tab.
 
-https://codewithmaik.github.io/love-running/
+[Click here](https://codewithmaik.github.io/love-running/) to see the live site.
 
