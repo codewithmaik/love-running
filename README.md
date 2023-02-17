@@ -12,5 +12,5 @@ In this project, I've built a static website using plain HTML and CSS. It's the 
 
 - Building a project with HTML and CSS from the ground up.
 - Using the basics of GIT through the process.
-- Makinf a website responsive using media queries.
+- Making a website responsive using media queries.
 
